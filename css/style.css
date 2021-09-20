@@ -1,0 +1,20 @@
+h1 {
+    color: yellowgreen; 
+    text-align: center;
+}
+h2 {
+    color: green;
+    font-style: italic;
+    text-align: justify;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+
+#intro-section{
+    background:url(./images/relaxation.jpg) center center;
+    background-size: cover;
+}
